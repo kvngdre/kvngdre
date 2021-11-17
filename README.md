@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvngdre
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Web Scrapping
 - 💞️ I’m looking to collaborate on open source projects in Machine Learning
 - 📫 How to reach me kennedyugo2@gmail.com
 
