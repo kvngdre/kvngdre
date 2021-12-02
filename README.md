@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvngdre
+- 👋 Hi there
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Web Scrapping
 - 💞️ I’m looking to collaborate on open source projects in Machine Learning, Data Science and Backend Development using Python
