@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on open source projects in Machine Learning, Data Science and Backend Development using Python
 - 📫 How to reach me kennedyugo2@gmail.com
 
