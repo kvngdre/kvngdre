@@ -1,7 +1,6 @@
 - 👋 Hi there
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on open source projects in Machine Learning, Data Science and Backend Development with Django or Node.js
+- 👀 I’m interested in Backend Develoment, Data Science, and Machine Learning
+- 🌱 I’m currently learning React
 - 📫 How to reach me kennedyugo2@gmail.com
 
 <!---
