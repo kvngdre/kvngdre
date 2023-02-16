@@ -1,7 +1,7 @@
 ## 👋 Hi there  
 👀 I’m interested in web Develoment, Data Science, and Machine Learning  
 
-🌱 I’m currently learning React.  
+🌱 I’m currently learning NestJS and GraphQL.  
 
 📫 How to reach me:
 ```sh
