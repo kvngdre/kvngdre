@@ -21,7 +21,7 @@ kennedyugo2@gmail.com
   
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvngdre&show_icons=true&locale=en&layout=compact" alt="drsimplegraffiti" /></p>
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvngdre&" alt="drsimplegraffiti" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvngdre&" alt="drsimplegraffiti" /></p> -->
 
 
 <!---
