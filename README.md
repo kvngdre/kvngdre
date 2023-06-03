@@ -1,7 +1,7 @@
 ## 👋 Hi there  
 👀 I’m interested in web Develoment, Data Analytics, and Machine Learning  
 
-🌱 I’m currently learning C#.  
+🌱 I’m currently learning Java.  
 
 📫 How to reach me:
 ```sh
