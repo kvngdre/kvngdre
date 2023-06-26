@@ -1,5 +1,5 @@
 ## 👋 Hi there  
-👀 I’m interested in web Develoment, Data Analytics, and Machine Learning  
+👀 I’m interested in Web Develoment, Data Analytics, and Machine Learning  
 
 🌱 I’m currently learning Java.  
 
