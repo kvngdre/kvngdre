@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Kennedy, a pragmatic Software Enginner interested in Web Develoment, Data Analytics, and AI.
+### 👋 Hi there, I’m Kennedy, a pragmatic Software Enginner interested in Web Develoment, Data Analytics, and AI.
 
 📫 How to reach me:
 
