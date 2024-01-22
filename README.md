@@ -1,14 +1,13 @@
-## 👋 Hi there  
-👀 I’m interested in Web Develoment, Data Analytics, and AI  
+# 👋 Hi there,
 
-🌱 I’m currently learning C#.  
+I’m Kennedy, a pragmatic Software Enginner interested in Web Develoment, Data Analytics, and AI.
 
 📫 How to reach me:
 ```sh
 kennedyugo2@gmail.com
 ```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvngdre" alt="kvngdre" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvngdre" alt="kvngdre" /></a> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p>
 
