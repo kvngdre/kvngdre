@@ -8,11 +8,11 @@
 kennedyugo2@gmail.com
 ```
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvngdre" alt="kvngdre" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvngdre" alt="kvngdre" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p>
 
-[![John Kennedy Kalu's Github Stats](https://github-readme-stats.vercel.app/api?username=kvngdre&show_icons=true&theme=onedark)](https://github.com/machadop1407/github-readme-stats)
+<!-- [![John Kennedy Kalu's Github Stats](https://github-readme-stats.vercel.app/api?username=kvngdre&show_icons=true&theme=onedark)](https://github.com/machadop1407/github-readme-stats) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
