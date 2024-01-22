@@ -1,5 +1,8 @@
-### 👋 Hi there,
-## **I'm pragmatic Software Enginner passionate about backend engineering.**
+
+<p align = "right"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p>
+
+### 👋 Hi there, I'm John Kennedy Kalu
+## **I'm pragmatic Software Engineer passionate about backend engineering.**
 
 📫 How to reach me: Please reach out and connect on LinkedIn.
 
@@ -7,9 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvngdre" alt="kvngdre" /></a> </p> -->
 
-<p align = "right"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p>
-
-<!-- [![John Kennedy Kalu's Github Stats](https://github-readme-stats.vercel.app/api?username=kvngdre&show_icons=true&theme=onedark)](https://github.com/machadop1407/github-readme-stats) -->
+[![John Kennedy Kalu's Github Stats](https://github-readme-stats.vercel.app/api?username=kvngdre&show_icons=true&theme=onedark)](https://github.com/kvngdre/github-readme-stats)
 
 <hr />
 
