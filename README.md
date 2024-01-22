@@ -1,6 +1,7 @@
-### 👋 Hi there, I’m Kennedy, a pragmatic Software Enginner interested in Web Develoment, Data Analytics, and AI.
+### 👋 Hi there,
+## **I'm pragmatic Software Enginner passionate about backend engineering.**
 
-📫 How to reach me:
+📫 How to reach me: Please reach out and connect on LinkedIn.
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/john-kennedy-kalu/)  
 
