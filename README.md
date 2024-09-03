@@ -2,7 +2,7 @@
 <p align = "right"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p>
 
 ### 👋 Hi there, I'm John Kennedy Kalu
-## **I'm pragmatic Software Engineer passionate about backend engineering.**
+## **I'm pragmatic Full Stack Software Engineer passionate about backend engineering.**
 
 🌱 **I'm currently working on**: Learing software design patterns and software architecture.  
 📫 **How to reach me**: Please reach out and connect on LinkedIn.
