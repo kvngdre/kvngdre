@@ -4,7 +4,7 @@
 ### 👋 Hi there, I'm John Kennedy Kalu
 ## **I'm pragmatic Full Stack Software Engineer passionate about Backend Engineering.**
 
-🌱 **I'm currently working on**: Learing software design patterns and software architecture.  
+🌱 **I'm currently learning**: Software architecture and design patterns.  
 📫 **How to reach me**: Please reach out and connect on LinkedIn.
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/john-kennedy-kalu/)  
