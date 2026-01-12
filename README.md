@@ -4,7 +4,7 @@
 ### 👋 Hi there, I'm John Kennedy Kalu
 ## **I'm pragmatic Full Stack Software Engineer passionate about Backend Engineering.**
 
-🌱 **I'm currently learning**: Software architecture and design patterns.  
+🌱 **I'm currently learning**: Working with AI models from HuggingFace using LangChain.  
 📫 **How to reach me**: kennedyugo2@gmail.com
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/john-kennedy-kalu/)  
