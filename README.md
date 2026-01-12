@@ -1,11 +1,11 @@
 
 <p align = "right"> <img src="https://komarev.com/ghpvc/?username=kvngdre&label=Profile%20views&color=0e75b6&style=flat" alt="kvngdre" /> </p>
 
-### 👋 Hi there, I'm John Kennedy Kalu
-## **I'm pragmatic Full Stack Software Engineer passionate about Backend Engineering.**
+### 👋 Hi there, I'm John Kennedy Kalu, you can call me Ken.
+## **I'm pragmatic Full Stack Software Engineer passionate about backend engineering.**
 
-🌱 **I'm currently learning**: Working with AI models from HuggingFace using LangChain.  
-📫 **How to reach me**: kennedyugo2@gmail.com
+🌱 **I'm currently learning**: how to work with AI models from HuggingFace and using LangChain.  
+📫 **Email me**: kennedyugo2@gmail.com
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/john-kennedy-kalu/)  
 
