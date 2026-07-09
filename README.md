@@ -4,7 +4,7 @@
 ### 👋 Hi there, I'm John Kennedy Kalu, you can call me Ken.
 ## **I'm pragmatic Full Stack Software Engineer passionate about backend engineering.**
 
-🌱 **I'm currently learning**: how to work with AI models from HuggingFace and using LangChain.  
+🌱 **I'm currently learning**: Dev Ops and Site Reliability Engineering  
 📫 **Email me**: kennedyugo2@gmail.com
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/john-kennedy-kalu/)  
